@@ -78,32 +78,6 @@ You need an internet connection once — the app loads Tailwind CSS from a CDN o
 
 No server or build step is required.
 
-## GitHub Pages (Optional)
-
-To host this project on GitHub Pages:
-
-1. Push the repo to GitHub
-2. Go to **Settings → Pages**
-3. Set **Source** to `main` branch, root folder
-4. Your site will be live at `https://<username>.github.io/<repo-name>/`
-
-Start from `index.html` — it redirects to the login page.
-
-## Push to GitHub
-
-From this folder, run:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: CJ Schools management system"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git push -u origin main
-```
-
-Replace `YOUR_USERNAME` and `YOUR_REPO` with your GitHub details.
-
 ## Technologies
 
 - HTML5
