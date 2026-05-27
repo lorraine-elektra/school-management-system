@@ -2,6 +2,9 @@
 
 A static school management web app with separate HTML pages for each section. Built with HTML, Tailwind CSS, and vanilla JavaScript. Data is stored in the browser via localStorage.
 
+##Live Demo
+https://lorraine-elektra.github.io/school-management-system/
+
 ## Project Structure
 
 ```
